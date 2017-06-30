@@ -16,12 +16,12 @@
   <snapshotRepository>
     <id>snapshots</id>
 	<name>SNAPSHOT</name>
-    <url>http://13.59.79.61:8081/nexus-2.14.4-03/content/repositories/snapshots/</url>
+    <url>http://13.59.204.197:8081/nexus-2.14.4-03/content/repositories/snapshots/</url>
   </snapshotRepository>
   <repository>
     <id>releases</id>
 	<name>RELEASES</name>
-    <url>http://13.59.79.61:8081/nexus-2.14.4-03/content/repositories/releases/</url>
+    <url>http://13.59.204.197:8081/nexus-2.14.4-03/content/repositories/releases/</url>
   </repository>
   </distributionManagement>
 </project>
